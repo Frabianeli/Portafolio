@@ -76,8 +76,9 @@ button:hover{
     height: 34px;
     width: 34px;
 }
-.button i{
-    font-size: 20px;
+button i{
+    font-size: 22px;
+    color: lightgrey;
 }
 button{
     background: border-box;
@@ -805,6 +806,10 @@ button{
 
     li a{
         font-size: 18px;
+    }
+    
+    a:hover{
+        font-size: 19px;
     }
     /* ------HOME-----*/
     .home{
