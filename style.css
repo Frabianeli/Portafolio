@@ -494,6 +494,7 @@ button{
         padding: 30px 35px 10px 35px;
         display: block;
         z-index: 999;
+        text-align: center;
   }
   
   .container-contacto-2 > img{
@@ -526,7 +527,7 @@ button{
   }
   .finish h4{
       text-align: center;
-      color: #2896d7;
+      color: #34B0BE;
       font-size: 25px;
       font-weight: 600;
       padding-bottom: 10px;
@@ -750,9 +751,6 @@ button{
         margin-top: 65px;
         padding-top: 90px;
       }
-    .habilidades h3{
-        margin-top: 143px;
-    }
     .habilidades h5{
         font-size: 1.5rem;
         color: #FFFFFF;
