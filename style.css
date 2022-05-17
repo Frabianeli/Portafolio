@@ -203,10 +203,11 @@ button{
 .acerca-de-mi{
     width: 85%;
     margin: auto;
-    margin-top: 90px;
+    margin-top: 50px;
+    padding-top: 40px;
 }
 .acerca-de-mi p{
-    line-height: 25px;
+    line-height: 26px;
     padding-top: 15px;
     text-align: center;
 }
@@ -224,7 +225,8 @@ button{
 .servicios{
     width: 90%;
     margin: auto;
-    margin-top: 120px;
+    margin-top: 80px;
+    padding-top: 40px;
 }
 
 .servicios h2{
@@ -274,7 +276,6 @@ button{
 /*-------habilidades--------*/
 .habilidades h3{
     text-align: center;
-    margin-top: 125px;
     margin-bottom: 75px;
 }
 .habilidades h5{
@@ -289,6 +290,8 @@ button{
     width: 80%;
     margin:auto;
     overflow: hidden;
+    margin-top: 80px;
+    padding-top: 40px;
 }
 .container-habilidades{
     margin-bottom: 40px;
@@ -397,7 +400,8 @@ button{
 
   /*--------Portafolio---------*/
   .portafolio{
-      margin-top: 120px;
+      margin-top: 40px;
+      padding-top: 40px;
   }
   .portafolio h3{
       text-align: center;
@@ -426,8 +430,8 @@ button{
   .contacto{
       width: 90%;
       margin: auto;
-      text-align: center;
-      margin-top: 120px;
+      margin-top: 80px;
+      padding-top: 40px;
   }
   .contacto h3{
     text-align: center;
@@ -514,18 +518,18 @@ button{
 
   /*----finish------*/
   .finish{
-    box-shadow: 0 1px 30px #000 inset, 0 1px 0 #444;
-    background-color: #5d5f68;
+    box-shadow: 0 1px 51px #000 inset, 0 1px 0 #444;
+    background-color: #61666e;
     padding: 17px 0 13px 0;
     margin-top: 80px;
-    padding-top: 50px;
+    padding-top: 25px;
   }
   .finish h4{
       text-align: center;
-      color: #34c2e3;
+      color: #2896d7;
       font-size: 25px;
       font-weight: 600;
-      padding-bottom: 20px;
+      padding-bottom: 10px;
   }
 
   
@@ -714,17 +718,19 @@ button{
     .acerca-de-mi{
         width: 82%;
         margin: auto;
-        margin-top: 100px;
+        margin-top: 30px;
+        padding-top: 90px;
     }
     .acerca-de-mi p{
-        line-height: 27px;
+        line-height: 28px;
     }
     /*----Servicios----*/
 
 
     .servicios{
-        margin-top: 150px;
         width: 80%;
+        margin-top: 60px;
+        padding-top: 90px;
     }
     
     .servicios h2{
@@ -740,6 +746,10 @@ button{
     }
       
     /**----Habilidades*/
+     .habilidades{
+        margin-top: 65px;
+        padding-top: 90px;
+      }
     .habilidades h3{
         margin-top: 143px;
     }
@@ -749,7 +759,10 @@ button{
     }
 
     /*----Portafolio--------*/
-
+    .portafolio{
+        margin-top: 38px;
+        padding-top: 90px;
+    }
 
     .container-portafolio{
         max-width: 700px;
@@ -759,6 +772,8 @@ button{
 
     .contacto{
         width: 80%;
+        margin-top: 68px;
+        padding: 90px;
     }
   
     .contacto h5{
@@ -792,6 +807,9 @@ button{
         width: 52%;
         min-width: none;
         max-width: none;
+    }
+     ul{
+        padding-bottom: 8px;
     }
 
     h4{
@@ -864,24 +882,29 @@ button{
 
     /*------Acerca-de-mi-----*/
     .acerca-de-mi h3{
-        margin-bottom: 32px;
+        margin-bottom: 48px;
     }
     .acerca-de-mi{
         width: 86%;
         margin: auto;
-        margin-top: 90px;
+        margin-top: 20px;
+        padding-top: 100px;
     }
     .acerca-de-mi p{
         padding-top: 25px;
         font-size: 20px;
-        line-height: 27px;
+        line-height: 29px;
     }
 
 
     /*------Servicios------*/
 
     .servicios{
-        margin-top: 128px;
+        margin-top: 65px;
+        padding-top: 100px;
+    }
+     .servicios h3{
+        padding-bottom: 15px;
     }
     
     .servicios h2{
@@ -901,7 +924,6 @@ button{
 
     /*------Habilidades------*/
     .habilidades h3{
-        margin-top: 145px;
         margin-bottom: 85px;
     }
     .habilidades h5{
@@ -912,11 +934,14 @@ button{
     }
     .habilidades{
         width: 84%;
+        margin-top: 75px;
+        padding-top: 100px;
     }
 
     /*---Portafolio----*/
     .portafolio{
-        margin-top: 140px;
+        margin-top: 40px;
+        padding-top: 100px;
     }
     .portafolio h3{
         margin-bottom: 55px;
@@ -944,8 +969,9 @@ button{
 
     }
     .contacto{
-        margin-top: 140px;
+        margin-top: 66px;
         width: 80%;
+        padding-top: 100px;
     }
     .contacto h3{
         margin-bottom:95px;
